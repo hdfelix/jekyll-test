@@ -4,14 +4,14 @@ email: hdfelix@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   For now this site is just to get familiar wtih jekyll
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hafelix 
-github_username: hdfelix 
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: hafelix 
+#github_username: hdfelix 
 
-analytics:
-  google:
-    id: 
-    domain:
+# analytics:
+#   google:
+#     id: 
+#     domain:
 
 exclude: 
   - vendor
