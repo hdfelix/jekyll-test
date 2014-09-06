@@ -1,0 +1,13 @@
+language: ruby
+cache: bundler
+rvm:
+  - "2.1.1"
+# branches:
+#   only:
+#     - setup-travis
+
+# special command so that tests that require a GUI (e.g., a browser) can run
+# For more info, see: [this page](http://docs.travis-ci.com/user/gui-and-headless-browsers/)
+script: xvfb-run bundle exec rspec spec/features/*.rb
+
+
