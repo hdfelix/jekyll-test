@@ -8,8 +8,17 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: hafelix 
 github_username: hdfelix 
 
+analytics:
+  google:
+    id: 
+    domain:
+
+exclude: 
+  - vendor
+  - README.md
+  - GEMFILE
+  - GEMFILE.lock
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
-
-exclude: ["vendor"]
