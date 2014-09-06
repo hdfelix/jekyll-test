@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 
 # analytics:
 #   google:
-#     id: 
+#     id: UA-1721142-2
 #     domain:
 
 exclude: 
