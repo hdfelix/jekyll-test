@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[title]"
+title: "CII Local Conference - How to Meet Msg 2"
 date: 2014-09-07 10:23:00
 categories: cii conferences
 ---
