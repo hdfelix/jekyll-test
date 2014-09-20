@@ -75,3 +75,11 @@ Confirmación de la palabra
 - Nuestro fin es llevar a los nuevos por la experiencia del tabernáculo a fin de que ellos puedan tener contacto y comunión directa con el Señor. 
 - Si somos fieles en orar, venir a la palabra, memorizar la palabra, laborar con perserverancia, nuestros nuevos crecerán en vida y harán lo mismo que nosotros. 
 - Que el Señor nos fortalezca a tomar esta palabra como una consagración
+
+Walter
+- En la Biblia, amar es dar ("Por lo tanto amo Dios al mundo que ... [dió a Su hijo]")
+- El niño, el joven, su esposa requiren tiempo; a lo que das tiempo, amas. Si no 'tienes tiempo', te pregunto, a que amas?
+_ Quieres amar al Señor y a la iglesia? Aquí el secreto:
+  - Para amar a la iglesia tienes que ofrendar a la iglesia.
+  - Si dices que no tienes plata es porque no ofrendas. Amor es dar. No tienes dinero porque no ofrendas. El nuevo creyente que tu no le enseñas a ofrendar, se te van.
+  - Para nosotros los latinos esto es muy dificil; sacarle dinero a un latino es como sacarle los dientes! Dios ni la iglesia necesitan dinero; tu necesitas ofrendar; amar es dar. Ofrendar es amar. Si no ofrendamos, seremos pobres; cuando damos, el Señor te convierte en un canal de bendición y nunca te faltará. Aprende a afrendar. Si no, cuando tengas dinero, menos ofrenderás.
