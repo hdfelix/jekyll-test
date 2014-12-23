@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Fellowship concerning the burden in the children's work in cii"
+date: 2014-10-03
+categories: "cii children's service"
+---
+
 The Work is beginning to require a background check for anyone participating in any overnight activities. The serving ones should also go through this to take care of any issues.
 
 The service we're using is 'protectmyministry.(org?)'. What we've found is that if anyone has any kind of issue, they know about it and won't even go through the process. That in itself is a check.
@@ -118,7 +125,7 @@ Topics to cover:
         Allen will send out e-mail to serving ones;
         [someone] will add to church news
 
-        09/25 - Family Barbecue (4 - 6pm)
+        10/25 - Family Barbecue (4 - 6pm)
         11/2 - Next serving one's meeting (3pm - 5pm)
 
 
